@@ -1,0 +1,554 @@
+@font-face {
+	font-family: 'Roboto';
+}
+
+.header {
+	width: 100%;
+	height: 50px;
+	background: white;
+	position: absolute;	
+	z-index: 4;
+	display: inline-block;
+}
+
+.bodyheader {
+	font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 100px;
+	width: 250px;
+	display: inline-block;
+	
+
+}
+
+.sexheader {
+	font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 200px;
+	width: 250px;
+	display: inline-block;
+	text-decoration: underline
+
+
+}
+
+.mindheader {
+		font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 200px;
+	width: 250px;
+	display: inline-block;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* ONE */
+
+.one {
+	width: 100%;
+	height: 800px;
+	top: 25px;
+	background: white;
+	position: absolute;	
+}
+
+	.cover {
+		font-family: Roboto;
+		font-size: 8em;
+		color: #94A49E;
+		letter-spacing:2em;
+		text-align: center;
+		position: relative;
+		padding-top: 50px;
+		margin-left: 175px;
+	}
+
+.kissing {
+		margin-top: 0px;
+		margin-left: -175px;
+		transform: scale(1.);
+		z-index: 1;
+		position: absolute;
+		
+	}
+
+	.blob {
+		margin-top: 165px;
+		margin-left: -220px;
+		transform: scale(1.);
+		z-index: -1;
+		
+	}
+
+
+
+	.learn {
+		font-family: Roboto;
+	font-size: 1em;
+	color: #454545;
+	letter-spacing:0em;
+	text-align: center;
+	position: absolute;
+	margin-top: 750px;
+	margin-left: 630px;
+	z-index: 1;
+	}
+
+/* STD'S SECTION */
+
+.two {
+	width: 100%;
+	height: 800px;
+	top: 800px;
+	background-color: white;
+	position: absolute;	
+}
+
+.STD {
+	font-family: Roboto;
+	font-size: 5em;
+	color: #454545;
+	letter-spacing:1em;
+	text-align: left;
+	position: absolute;
+	margin-top: 60px;
+	margin-left: 45px;
+	z-index: 1;
+
+}
+
+.list {
+		width: 700px;
+		height: 600px;
+		background-color: #849790;
+		margin-top: -40px;
+		position: absolute;
+		margin-top: 100px;
+		margin-left
+}
+
+
+
+.Chlamydia{font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 60px;
+	}
+.Herpes{font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 35px;
+	}
+.HIVAIDS{font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 35px;
+	}
+.hpv {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 35px;
+	}
+.Gonorrhea{font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 35px;
+	}
+.Hepititas{font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 35px;
+	}
+
+
+
+
+.description {
+		width: 600px;
+		height: 400px;
+		background-color: #C9D1CE;
+		margin-top: 200px;
+		margin-left: 625px;
+		position: absolute;
+		z-index: 0;
+
+}
+
+/* PREVENTION SECTION */
+
+
+	.three {
+	width: 100%;
+	height: 800px;
+	top: 1600px;
+	background-color: white;
+	position: absolute;	
+	z-index: 2;
+}
+
+.prevention { 
+	font-family: Roboto;
+	font-size: 5em;
+	color: #454545;
+	letter-spacing:1em;
+	text-align: right;
+	position: absolute;
+	z-index: 1;
+	margin-top: 60px;
+	margin-left: 100px;
+}
+
+.listbox {
+		width: 700px;
+		height: 600px;
+		background-color: #849790;
+		margin-top: -40px;
+		position: absolute;
+		margin-top: 100px;
+		margin-left: 730px;
+}
+
+
+.iud {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 50px;
+	}
+
+.implant {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 15px;
+	}
+.shot {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 15px;
+	}
+.ring {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 15px;
+	}
+.patch {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 15px;
+	}
+.pilltwo {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 15px;
+	}
+.condom {font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 15px;
+	}
+.PlanB {
+	font-family: Roboto;
+		font-size: 3em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 15px;
+}
+
+.titlesorta {
+	font-family: Roboto;
+		font-size: 3em;
+		color: #94A49E;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 50px;
+
+
+}
+
+.textsorta {
+	font-family: Roboto;
+		font-size: 1em;
+		color: #94A49E;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 20px;
+		margin-left: 20px;
+		margin-right: 20px;
+		line-height: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.descriptiontwo {
+		width: 600px;
+		height: 400px;
+		background-color: #C1CBC7;
+		margin-top: 225px;
+		margin-left: 200px;
+		position: absolute;
+		
+}
+
+
+
+/* ABORTION SECTION */
+
+.four {
+	width: 100%;
+	height: 800px;
+	top: 2400px;
+	background-color: white;
+	position: absolute;	
+	z-index: 2;
+}
+
+.abortion  {
+	font-family: Roboto;
+	font-size: 5em;
+	color: #454545;
+	letter-spacing:1em;
+	text-align: center;
+	position: absolute;
+	z-index: 1;
+	margin-top: 60px;
+	margin-left: 220px;
+
+}
+
+.bigbox {
+	width: 1225px;
+	height: 625px;
+	background-color: #C9D1CE;
+	margin-top: 100px;
+	margin-left: 100px;
+	position: absolute;
+}
+
+.considering {
+	font-family: Roboto;
+		font-size: 3em;
+		color: #849790;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 70px;
+
+}
+
+.boxone {
+		width: 600px;
+		height: 400px;
+		background-color: #849790;
+		margin-top: 45px;
+		margin-left: -60px;
+		position: absolute;
+}
+
+.pill {
+	font-family: Roboto;
+		font-size: 2.5em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		margin-top: 20px;
+		margin-left: 200px;
+		text-align: center;
+		position: absolute;
+}
+
+.pilltext  {
+
+		font-family: Roboto;
+		font-size: 1.5em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 100px;
+		margin-left: 20px;
+		margin-right: 20px;
+		line-height: 1.25;
+		position: absolute;
+		
+		
+}
+
+
+
+.boxtwo{
+		width: 600px;
+		height: 400px;
+		background-color: #849790;
+		margin-top: 0px;
+		margin-left: 745px;
+		position: absolute;
+}
+
+.clinic {
+	font-family: Roboto;
+		font-size: 2.5em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		margin-top: 20px;
+		margin-left: 175px;
+		text-align: center;
+		position: absolute;
+}
+
+.clinictext {
+		font-family: Roboto;
+		font-size: 1.5em;
+		color: #C9D1CE;
+		letter-spacing: 0em;
+		text-align: center;
+		margin-top: 100px;
+		margin-left: 20px;
+		margin-right: 20px;
+		line-height: 1.25;
+		position: absolute;
+
+
+}
+
+/* bottom tag thing SECTION */
+
+.five {
+	width: 100%;
+	height: 100px;
+	top: 3100px;
+	background-color: white;
+	position: absolute;	
+	z-index: 3;
+	
+}
+
+.stdtag {
+	font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 85px;
+	margin-left: 300px;
+	width: 150px;
+	display: inline-block;
+	z-index: 4;
+	position: absolute;
+}
+
+.preventiontag{
+	font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 85px;
+	margin-left: 600px;
+	width: 150px;
+	display: inline-block;
+	z-index: 4;
+	position: absolute;
+
+}
+
+.abortiontag{
+	font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 85px;
+	margin-left: 900px;
+	width: 150px;
+	display: inline-block;
+	z-index: 4;
+	position: absolute;
+}
+
+.sex {
+		margin-top: -150px;
+		margin-left: 0px;
+		transform: scale(.35);
+		position: absolute;
+
+
+}
+
+.arrow {
+		margin-top: 20px;
+		margin-left: 1175px;
+		transform: scale(.85);
+		position: absolute;
+
+}
+
+

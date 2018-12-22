@@ -1,0 +1,70 @@
+@font-face {
+	font-family: 'Roboto';
+}
+
+.header {
+	width: 100%;
+	height: 50px;
+	background: white;
+	position: absolute;	
+	z-index: 4;
+	display: inline-block;
+}
+
+.bodyheader {
+	font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 100px;
+	width: 250px;
+	display: inline-block;
+	
+
+}
+
+.sexheader {
+	font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 200px;
+	width: 250px;
+	display: inline-block;
+	text-decoration: underline
+
+
+}
+
+.mindheader {
+		font-family: Roboto;
+	font-size: 1.5em;
+	color: #454545;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 200px;
+	width: 250px;
+	display: inline-block;
+
+}
+
+
+.face {margin-top: 155px;
+	margin-left: 275px;
+		transform: scale(1.3);
+		z-index: 1;
+		position: absolute;}
+
+.blob {margin-top: 270px;
+		margin-left: 210px;
+		transform: scale(1.3);
+		z-index: -1;}
+
+
+
+
